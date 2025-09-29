@@ -1,7 +1,3 @@
-The following is a list of rock and roll artists.
-
-This is a dynamic list and may never be able to satisfy particular standards for completeness. You can help by editing the page to add missing items, with references to reliable sources.
-List
 Richard Anthony[1]
 Chet Atkins
 Hank Ballard[2]
@@ -11,7 +7,6 @@ The Big Bopper[4]
 The Brian Setzer Orchestra
 Johnny Burnette
 dire straights
-
 Ray Campi
 Freddy Cannon
 Goree Carter

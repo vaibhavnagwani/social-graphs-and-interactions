@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="word_count" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Sister_Rosetta_Tharpe">
+  <data key="d0">6163</data>
+</node>
+<node id="Carl_Perkins">
+  <data key="d0">10496</data>
+</node>
+<node id="Jerry_Lee_Lewis">
+  <data key="d0">15045</data>
+</node>
+<node id="Elvis_Presley">
+  <data key="d0">34285</data>
+</node>
+<node id="Little_Richard">
+  <data key="d0">26007</data>
+</node>
+<node id="Johnny_Cash">
+  <data key="d0">21392</data>
+</node>
+<node id="Bo_Diddley">
+  <data key="d0">12867</data>
+</node>
+<node id="Buddy_Holly">
+  <data key="d0">12832</data>
+</node>
+<node id="B.B._King">
+  <data key="d0">14</data>
+</node>
+<node id="Peter_Kraus">
+  <data key="d0">898</data>
+</node>
+<node id="Screamin'_Jay_Hawkins">
+  <data key="d0">4975</data>
+</node>
+<node id="Fats_Domino">
+  <data key="d0">8627</data>
+</node>
+<node id="Billy_Fury">
+  <data key="d0">3837</data>
+</node>
+<node id="Marty_Wilde">
+  <data key="d0">1745</data>
+</node>
+<node id="Bobby_Vee">
+  <data key="d0">3119</data>
+</node>
+<node id="The_Shadows">
+  <data key="d0">8958</data>
+</node>
+<node id="Cliff_Richard">
+  <data key="d0">21551</data>
+</node>
+<node id="Freddy_Cannon">
+  <data key="d0">3745</data>
+</node>
+<node id="Big_Joe_Turner">
+  <data key="d0">6215</data>
+</node>
+<node id="Drive-By_Truckers">
+  <data key="d0">9354</data>
+</node>
+<node id="The_Rolling_Stones">
+  <data key="d0">44022</data>
+</node>
+<node id="Hank_Williams_Jr.">
+  <data key="d0">6750</data>
+</node>
+<node id="Gene_Vincent">
+  <data key="d0">7149</data>
+</node>
+<node id="Eddie_Cochran">
+  <data key="d0">7458</data>
+</node>
+<node id="Duane_Eddy">
+  <data key="d0">9860</data>
+</node>
+<node id="Ricky_Nelson">
+  <data key="d0">7618</data>
+</node>
+<node id="Danyel_Gérard">
+  <data key="d0">1380</data>
+</node>
+<node id="Johnny_Hallyday">
+  <data key="d0">6308</data>
+</node>
+<node id="Johnny Burnette">
+  <data key="d0">4704</data>
+</node>
+<node id="Adriano_Celentano">
+  <data key="d0">2901</data>
+</node>
+<node id="Mina_(Italian_singer)">
+  <data key="d0">12272</data>
+</node>
+<node id="Tommy_Steele">
+  <data key="d0">6184</data>
+</node>
+<node id="Chet_Atkins">
+  <data key="d0">5836</data>
+</node>
+<node id="Johnny_Winter">
+  <data key="d0">5738</data>
+</node>
+<node id="Roy_Orbison">
+  <data key="d0">16473</data>
+</node>
+<node id="Jimi_Hendrix">
+  <data key="d0">29057</data>
+</node>
+<node id="Chubby_Checker">
+  <data key="d0">7042</data>
+</node>
+<node id="Larry_Williams">
+  <data key="d0">2945</data>
+</node>
+<node id="Ray_Charles">
+  <data key="d0">15753</data>
+</node>
+<node id="Ritchie_Valens">
+  <data key="d0">6369</data>
+</node>
+<node id="Stray_Cats">
+  <data key="d0">2943</data>
+</node>
+<node id="Wanda_Jackson">
+  <data key="d0">17365</data>
+</node>
+<node id="Brenda_Lee">
+  <data key="d0">11307</data>
+</node>
+<node id="Janis_Joplin">
+  <data key="d0">22480</data>
+</node>
+<node id="Jumpin'_Gene_Simmons">
+  <data key="d0">1026</data>
+</node>
+<node id="Bobby_Darin">
+  <data key="d0">9074</data>
+</node>
+<node id="The_Everly_Brothers">
+  <data key="d0">9036</data>
+</node>
+<node id="The_Crickets">
+  <data key="d0">4125</data>
+</node>
+<node id="Bob_Seger">
+  <data key="d0">8003</data>
+</node>
+<node id="Bill_Haley">
+  <data key="d0">4739</data>
+</node>
+<node id="Paul_Revere_and_the_Raiders">
+  <data key="d0">5</data>
+</node>
+<node id="Hank_Ballard">
+  <data key="d0">4062</data>
+</node>
+<node id="Ike_&amp;_Tina_Turner">
+  <data key="d0">199</data>
+</node>
+<node id="Chuck Berry">
+  <data key="d0">12897</data>
+</node>
+<node id="The_Head_Cat">
+  <data key="d0">1127</data>
+</node>
+<node id="Roy_Hall_(musician)">
+  <data key="d0">1175</data>
+</node>
+<node id="Howie_Stange">
+  <data key="d0">6366</data>
+</node>
+<node id="Adam_Faith">
+  <data key="d0">3800</data>
+</node>
+<node id="Johnny_Kidd_(singer)">
+  <data key="d0">1294</data>
+</node>
+<node id="The Big Bopper">
+  <data key="d0">4832</data>
+</node>
+<node id="Shooter_Jennings">
+  <data key="d0">5594</data>
+</node>
+<node id="Rosco_Gordon">
+  <data key="d0">1819</data>
+</node>
+<node id="Goree_Carter">
+  <data key="d0">2690</data>
+</node>
+<node id="Dick_Dale">
+  <data key="d0">7251</data>
+</node>
+<node id="Kid_Rock">
+  <data key="d0">18025</data>
+</node>
+<node id="Gerry_and_the_Pacemakers">
+  <data key="d0">5797</data>
+</node>
+<node id="Little_Tony_(singer)">
+  <data key="d0">1342</data>
+</node>
+<node id="Del_Shannon">
+  <data key="d0">3195</data>
+</node>
+<node id="The Brian Setzer Orchestra">
+  <data key="d0">911</data>
+</node>
+<node id="Kings_of_Rhythm">
+  <data key="d0">6035</data>
+</node>
+<node id="Ray_Campi">
+  <data key="d0">1059</data>
+</node>
+<node id="Conway_Twitty">
+  <data key="d0">6674</data>
+</node>
+<edge source="Sister_Rosetta_Tharpe" target="Carl_Perkins"/>
+<edge source="Sister_Rosetta_Tharpe" target="Jerry_Lee_Lewis"/>
+<edge source="Sister_Rosetta_Tharpe" target="Elvis_Presley"/>
+<edge source="Sister_Rosetta_Tharpe" target="Little_Richard"/>
+<edge source="Sister_Rosetta_Tharpe" target="Johnny_Cash"/>
+<edge source="Carl_Perkins" target="Wanda_Jackson"/>
+<edge source="Carl_Perkins" target="Ricky_Nelson"/>
+<edge source="Carl_Perkins" target="Chet_Atkins"/>
+<edge source="Carl_Perkins" target="Duane_Eddy"/>
+<edge source="Carl_Perkins" target="Jerry_Lee_Lewis"/>
+<edge source="Carl_Perkins" target="Jimi_Hendrix"/>
+<edge source="Carl_Perkins" target="Drive-By_Truckers"/>
+<edge source="Carl_Perkins" target="Elvis_Presley"/>
+<edge source="Carl_Perkins" target="Stray_Cats"/>
+<edge source="Carl_Perkins" target="Gene_Vincent"/>
+<edge source="Carl_Perkins" target="Roy_Orbison"/>
+<edge source="Carl_Perkins" target="Johnny_Cash"/>
+<edge source="Carl_Perkins" target="Johnny Burnette"/>
+<edge source="Carl_Perkins" target="Chuck Berry"/>
+<edge source="Carl_Perkins" target="The_Head_Cat"/>
+<edge source="Carl_Perkins" target="The Brian Setzer Orchestra"/>
+<edge source="Jerry_Lee_Lewis" target="Wanda_Jackson"/>
+<edge source="Jerry_Lee_Lewis" target="Elvis_Presley"/>
+<edge source="Jerry_Lee_Lewis" target="Roy_Orbison"/>
+<edge source="Jerry_Lee_Lewis" target="Little_Richard"/>
+<edge source="Jerry_Lee_Lewis" target="Johnny_Cash"/>
+<edge source="Jerry_Lee_Lewis" target="Ray_Charles"/>
+<edge source="Jerry_Lee_Lewis" target="B.B._King"/>
+<edge source="Jerry_Lee_Lewis" target="Bo_Diddley"/>
+<edge source="Jerry_Lee_Lewis" target="Buddy_Holly"/>
+<edge source="Jerry_Lee_Lewis" target="Hank_Williams_Jr."/>
+<edge source="Jerry_Lee_Lewis" target="Chubby_Checker"/>
+<edge source="Jerry_Lee_Lewis" target="Jumpin'_Gene_Simmons"/>
+<edge source="Jerry_Lee_Lewis" target="Bill_Haley"/>
+<edge source="Jerry_Lee_Lewis" target="Roy_Hall_(musician)"/>
+<edge source="Jerry_Lee_Lewis" target="Howie_Stange"/>
+<edge source="Jerry_Lee_Lewis" target="Adam_Faith"/>
+<edge source="Jerry_Lee_Lewis" target="Conway_Twitty"/>
+<edge source="Elvis_Presley" target="Ray_Charles"/>
+<edge source="Elvis_Presley" target="Chet_Atkins"/>
+<edge source="Elvis_Presley" target="Fats_Domino"/>
+<edge source="Elvis_Presley" target="Little_Richard"/>
+<edge source="Elvis_Presley" target="Johnny_Cash"/>
+<edge source="Elvis_Presley" target="Bill_Haley"/>
+<edge source="Elvis_Presley" target="Bo_Diddley"/>
+<edge source="Elvis_Presley" target="Buddy_Holly"/>
+<edge source="Elvis_Presley" target="Peter_Kraus"/>
+<edge source="Elvis_Presley" target="Billy_Fury"/>
+<edge source="Elvis_Presley" target="The_Shadows"/>
+<edge source="Elvis_Presley" target="Cliff_Richard"/>
+<edge source="Elvis_Presley" target="Big_Joe_Turner"/>
+<edge source="Elvis_Presley" target="The_Rolling_Stones"/>
+<edge source="Elvis_Presley" target="Gene_Vincent"/>
+<edge source="Elvis_Presley" target="Eddie_Cochran"/>
+<edge source="Elvis_Presley" target="Duane_Eddy"/>
+<edge source="Elvis_Presley" target="Ricky_Nelson"/>
+<edge source="Elvis_Presley" target="Danyel_Gérard"/>
+<edge source="Elvis_Presley" target="Johnny_Hallyday"/>
+<edge source="Elvis_Presley" target="Johnny Burnette"/>
+<edge source="Elvis_Presley" target="Adriano_Celentano"/>
+<edge source="Elvis_Presley" target="Tommy_Steele"/>
+<edge source="Elvis_Presley" target="Roy_Orbison"/>
+<edge source="Elvis_Presley" target="Jimi_Hendrix"/>
+<edge source="Elvis_Presley" target="Chubby_Checker"/>
+<edge source="Elvis_Presley" target="Ritchie_Valens"/>
+<edge source="Elvis_Presley" target="Wanda_Jackson"/>
+<edge source="Elvis_Presley" target="Brenda_Lee"/>
+<edge source="Elvis_Presley" target="Janis_Joplin"/>
+<edge source="Elvis_Presley" target="Jumpin'_Gene_Simmons"/>
+<edge source="Elvis_Presley" target="Bobby_Darin"/>
+<edge source="Elvis_Presley" target="The_Everly_Brothers"/>
+<edge source="Elvis_Presley" target="Bob_Seger"/>
+<edge source="Elvis_Presley" target="The_Head_Cat"/>
+<edge source="Elvis_Presley" target="Roy_Hall_(musician)"/>
+<edge source="Elvis_Presley" target="Howie_Stange"/>
+<edge source="Elvis_Presley" target="Johnny_Kidd_(singer)"/>
+<edge source="Elvis_Presley" target="Rosco_Gordon"/>
+<edge source="Elvis_Presley" target="Little_Tony_(singer)"/>
+<edge source="Elvis_Presley" target="Del_Shannon"/>
+<edge source="Elvis_Presley" target="The Brian Setzer Orchestra"/>
+<edge source="Elvis_Presley" target="Conway_Twitty"/>
+<edge source="Little_Richard" target="Eddie_Cochran"/>
+<edge source="Little_Richard" target="Ritchie_Valens"/>
+<edge source="Little_Richard" target="Ray_Charles"/>
+<edge source="Little_Richard" target="Buddy_Holly"/>
+<edge source="Little_Richard" target="Janis_Joplin"/>
+<edge source="Little_Richard" target="Larry_Williams"/>
+<edge source="Little_Richard" target="Bob_Seger"/>
+<edge source="Little_Richard" target="Fats_Domino"/>
+<edge source="Little_Richard" target="Jimi_Hendrix"/>
+<edge source="Little_Richard" target="The_Everly_Brothers"/>
+<edge source="Little_Richard" target="Gene_Vincent"/>
+<edge source="Little_Richard" target="Johnny_Cash"/>
+<edge source="Little_Richard" target="Bill_Haley"/>
+<edge source="Little_Richard" target="Bo_Diddley"/>
+<edge source="Little_Richard" target="B.B._King"/>
+<edge source="Little_Richard" target="Peter_Kraus"/>
+<edge source="Little_Richard" target="Cliff_Richard"/>
+<edge source="Little_Richard" target="Freddy_Cannon"/>
+<edge source="Little_Richard" target="Big_Joe_Turner"/>
+<edge source="Little_Richard" target="The_Rolling_Stones"/>
+<edge source="Little_Richard" target="Wanda_Jackson"/>
+<edge source="Little_Richard" target="Chuck Berry"/>
+<edge source="Little_Richard" target="Little_Tony_(singer)"/>
+<edge source="Johnny_Cash" target="Roy_Orbison"/>
+<edge source="Johnny_Cash" target="Ray_Charles"/>
+<edge source="Johnny_Cash" target="Hank_Williams_Jr."/>
+<edge source="Johnny_Cash" target="Duane_Eddy"/>
+<edge source="Johnny_Cash" target="Ricky_Nelson"/>
+<edge source="Johnny_Cash" target="Wanda_Jackson"/>
+<edge source="Johnny_Cash" target="The_Everly_Brothers"/>
+<edge source="Johnny_Cash" target="The_Head_Cat"/>
+<edge source="Johnny_Cash" target="Shooter_Jennings"/>
+<edge source="Bo_Diddley" target="Buddy_Holly"/>
+<edge source="Bo_Diddley" target="B.B._King"/>
+<edge source="Bo_Diddley" target="Screamin'_Jay_Hawkins"/>
+<edge source="Bo_Diddley" target="Freddy_Cannon"/>
+<edge source="Bo_Diddley" target="The_Rolling_Stones"/>
+<edge source="Bo_Diddley" target="Ritchie_Valens"/>
+<edge source="Bo_Diddley" target="Stray_Cats"/>
+<edge source="Bo_Diddley" target="Brenda_Lee"/>
+<edge source="Bo_Diddley" target="Chuck Berry"/>
+<edge source="Buddy_Holly" target="The_Crickets"/>
+<edge source="Buddy_Holly" target="Ritchie_Valens"/>
+<edge source="Buddy_Holly" target="Bobby_Darin"/>
+<edge source="Buddy_Holly" target="The_Everly_Brothers"/>
+<edge source="Buddy_Holly" target="Bobby_Vee"/>
+<edge source="Buddy_Holly" target="Ray_Charles"/>
+<edge source="Buddy_Holly" target="The_Shadows"/>
+<edge source="Buddy_Holly" target="Big_Joe_Turner"/>
+<edge source="Buddy_Holly" target="The_Rolling_Stones"/>
+<edge source="Buddy_Holly" target="Eddie_Cochran"/>
+<edge source="Buddy_Holly" target="Tommy_Steele"/>
+<edge source="Buddy_Holly" target="Chuck Berry"/>
+<edge source="Buddy_Holly" target="The_Head_Cat"/>
+<edge source="Buddy_Holly" target="Roy_Hall_(musician)"/>
+<edge source="Buddy_Holly" target="Adam_Faith"/>
+<edge source="Buddy_Holly" target="The Big Bopper"/>
+<edge source="Buddy_Holly" target="Ray_Campi"/>
+<edge source="B.B._King" target="Johnny_Winter"/>
+<edge source="B.B._King" target="Jimi_Hendrix"/>
+<edge source="B.B._King" target="Rosco_Gordon"/>
+<edge source="B.B._King" target="Goree_Carter"/>
+<edge source="B.B._King" target="Kings_of_Rhythm"/>
+<edge source="Peter_Kraus" target="Mina_(Italian_singer)"/>
+<edge source="Screamin'_Jay_Hawkins" target="Fats_Domino"/>
+<edge source="Fats_Domino" target="Ike_&amp;_Tina_Turner"/>
+<edge source="Fats_Domino" target="Big_Joe_Turner"/>
+<edge source="Fats_Domino" target="The_Rolling_Stones"/>
+<edge source="Fats_Domino" target="Hank_Williams_Jr."/>
+<edge source="Fats_Domino" target="Eddie_Cochran"/>
+<edge source="Fats_Domino" target="Ricky_Nelson"/>
+<edge source="Fats_Domino" target="Chubby_Checker"/>
+<edge source="Fats_Domino" target="Kings_of_Rhythm"/>
+<edge source="Billy_Fury" target="Marty_Wilde"/>
+<edge source="Billy_Fury" target="Bobby_Vee"/>
+<edge source="Billy_Fury" target="Cliff_Richard"/>
+<edge source="Billy_Fury" target="Eddie_Cochran"/>
+<edge source="Billy_Fury" target="Johnny_Kidd_(singer)"/>
+<edge source="Marty_Wilde" target="Tommy_Steele"/>
+<edge source="Marty_Wilde" target="Cliff_Richard"/>
+<edge source="Marty_Wilde" target="The_Shadows"/>
+<edge source="Marty_Wilde" target="Eddie_Cochran"/>
+<edge source="Marty_Wilde" target="Ritchie_Valens"/>
+<edge source="Marty_Wilde" target="Johnny_Kidd_(singer)"/>
+<edge source="Bobby_Vee" target="Ray_Charles"/>
+<edge source="Bobby_Vee" target="Ritchie_Valens"/>
+<edge source="Bobby_Vee" target="Freddy_Cannon"/>
+<edge source="Bobby_Vee" target="Cliff_Richard"/>
+<edge source="Bobby_Vee" target="Adam_Faith"/>
+<edge source="Bobby_Vee" target="The_Shadows"/>
+<edge source="Bobby_Vee" target="The_Crickets"/>
+<edge source="The_Shadows" target="Cliff_Richard"/>
+<edge source="Cliff_Richard" target="Eddie_Cochran"/>
+<edge source="Cliff_Richard" target="The_Rolling_Stones"/>
+<edge source="Cliff_Richard" target="Tommy_Steele"/>
+<edge source="Cliff_Richard" target="Adam_Faith"/>
+<edge source="Cliff_Richard" target="The_Everly_Brothers"/>
+<edge source="Freddy_Cannon" target="Big_Joe_Turner"/>
+<edge source="Big_Joe_Turner" target="Bill_Haley"/>
+<edge source="Big_Joe_Turner" target="The Brian Setzer Orchestra"/>
+<edge source="Drive-By_Truckers" target="The_Rolling_Stones"/>
+<edge source="Drive-By_Truckers" target="Hank_Williams_Jr."/>
+<edge source="The_Rolling_Stones" target="Johnny_Winter"/>
+<edge source="The_Rolling_Stones" target="Ricky_Nelson"/>
+<edge source="The_Rolling_Stones" target="Roy_Orbison"/>
+<edge source="The_Rolling_Stones" target="Jimi_Hendrix"/>
+<edge source="The_Rolling_Stones" target="Larry_Williams"/>
+<edge source="The_Rolling_Stones" target="Stray_Cats"/>
+<edge source="The_Rolling_Stones" target="Chuck Berry"/>
+<edge source="The_Rolling_Stones" target="Shooter_Jennings"/>
+<edge source="The_Rolling_Stones" target="Gerry_and_the_Pacemakers"/>
+<edge source="Hank_Williams_Jr." target="Kid_Rock"/>
+<edge source="Hank_Williams_Jr." target="Shooter_Jennings"/>
+<edge source="Hank_Williams_Jr." target="Ray_Charles"/>
+<edge source="Hank_Williams_Jr." target="Conway_Twitty"/>
+<edge source="Gene_Vincent" target="Eddie_Cochran"/>
+<edge source="Gene_Vincent" target="Duane_Eddy"/>
+<edge source="Gene_Vincent" target="Johnny Burnette"/>
+<edge source="Gene_Vincent" target="Stray_Cats"/>
+<edge source="Gene_Vincent" target="The Brian Setzer Orchestra"/>
+<edge source="Eddie_Cochran" target="Ray_Charles"/>
+<edge source="Eddie_Cochran" target="Ritchie_Valens"/>
+<edge source="Eddie_Cochran" target="Jimi_Hendrix"/>
+<edge source="Eddie_Cochran" target="Stray_Cats"/>
+<edge source="Eddie_Cochran" target="Johnny_Hallyday"/>
+<edge source="Eddie_Cochran" target="Roy_Orbison"/>
+<edge source="Eddie_Cochran" target="The_Head_Cat"/>
+<edge source="Eddie_Cochran" target="The Big Bopper"/>
+<edge source="Eddie_Cochran" target="The Brian Setzer Orchestra"/>
+<edge source="Duane_Eddy" target="Chet_Atkins"/>
+<edge source="Duane_Eddy" target="Brenda_Lee"/>
+<edge source="Duane_Eddy" target="Roy_Orbison"/>
+<edge source="Ricky_Nelson" target="Johnny Burnette"/>
+<edge source="Ricky_Nelson" target="Brenda_Lee"/>
+<edge source="Ricky_Nelson" target="Johnny_Kidd_(singer)"/>
+<edge source="Danyel_Gérard" target="Johnny_Hallyday"/>
+<edge source="Johnny_Hallyday" target="Jimi_Hendrix"/>
+<edge source="Adriano_Celentano" target="Mina_(Italian_singer)"/>
+<edge source="Adriano_Celentano" target="Little_Tony_(singer)"/>
+<edge source="Tommy_Steele" target="Ritchie_Valens"/>
+<edge source="Chet_Atkins" target="Johnny_Winter"/>
+<edge source="Chet_Atkins" target="Roy_Orbison"/>
+<edge source="Chet_Atkins" target="Ray_Charles"/>
+<edge source="Chet_Atkins" target="The_Everly_Brothers"/>
+<edge source="Johnny_Winter" target="Jimi_Hendrix"/>
+<edge source="Johnny_Winter" target="Janis_Joplin"/>
+<edge source="Roy_Orbison" target="Jimi_Hendrix"/>
+<edge source="Roy_Orbison" target="Chubby_Checker"/>
+<edge source="Roy_Orbison" target="Wanda_Jackson"/>
+<edge source="Roy_Orbison" target="Del_Shannon"/>
+<edge source="Roy_Orbison" target="Conway_Twitty"/>
+<edge source="Jimi_Hendrix" target="Ike_&amp;_Tina_Turner"/>
+<edge source="Jimi_Hendrix" target="Janis_Joplin"/>
+<edge source="Jimi_Hendrix" target="Hank_Ballard"/>
+<edge source="Jimi_Hendrix" target="Chubby_Checker"/>
+<edge source="Jimi_Hendrix" target="Ritchie_Valens"/>
+<edge source="Jimi_Hendrix" target="Dick_Dale"/>
+<edge source="Jimi_Hendrix" target="Kings_of_Rhythm"/>
+<edge source="Chubby_Checker" target="Hank_Ballard"/>
+<edge source="Ray_Charles" target="Brenda_Lee"/>
+<edge source="Ray_Charles" target="Bobby_Darin"/>
+<edge source="Ritchie_Valens" target="The_Everly_Brothers"/>
+<edge source="Ritchie_Valens" target="The Big Bopper"/>
+<edge source="Stray_Cats" target="The_Head_Cat"/>
+<edge source="Stray_Cats" target="The Brian Setzer Orchestra"/>
+<edge source="Wanda_Jackson" target="Brenda_Lee"/>
+<edge source="Bob_Seger" target="Del_Shannon"/>
+<edge source="Bob_Seger" target="Kid_Rock"/>
+<edge source="Paul_Revere_and_the_Raiders" target="Johnny_Kidd_(singer)"/>
+<edge source="Ike_&amp;_Tina_Turner" target="Kings_of_Rhythm"/>
+</graph></graphml>
